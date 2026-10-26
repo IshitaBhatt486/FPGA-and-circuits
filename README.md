@@ -1,0 +1,1 @@
+> The PYNQ-Z2 board with a Zynq-7000 SoC, part number xc7z020clg400-1 and AMD Vivado 2025.2 (Vivado ML Standard) was used.
